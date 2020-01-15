@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="prev_text">PREV</string>
+    <string name="next_text">NEXT</string>
+    <string name="schedule_btn_text">SCHEDULE COMPANY MEETING</string>
+    <string name="back_btn">BACK</string>
+    <string name="schedule_meeting_title">SCHEDULE A MEETING</string>
+    <string name="submit_btn">SUBMIT</string>
+    <string name="ok_btn">OK</string>
+    <string name="start_time_text">START TIME</string>
+    <string name="end_time_text">END TIME</string>
+    <string name="meeting_date_text">MEETING DATE</string>
+    <string name="description_text">DESCRIPTION</string>
+    <string name="slots_available_text">Slot available</string>
+    <string name="slots_not_available_text">Slot not available</string>
+    <string name="error">Some error occurred</string>
+</resources>
